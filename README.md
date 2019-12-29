@@ -1,6 +1,6 @@
 # Maze - is a super fun game ! 
 
-![picture](http://via.placeholder.com/200x150)
+![picture](https://github.com/tudorbejinari/Maze/blob/master/mazegame.png)
 
 ### Tools I used:
 * JavaScript 
