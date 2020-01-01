@@ -1,6 +1,9 @@
 # Maze - is a super fun game ! 
-
+## Idea:
 ![picture](https://github.com/tudorbejinari/Maze/blob/master/mazegame.png)
+## Final click to Play
+![picture](https://github.com/tudorbejinari/Maze/blob/master/mazefinal.png)
+
 
 ### Tools I used:
 * JavaScript 
