@@ -1,4 +1,4 @@
-# Maze - is a super fun game ! 
+# Maze - is a super fun game ! [PLAY](https://tudorbejinari.github.io/Maze/)
 ## Idea:
 ![picture](https://github.com/tudorbejinari/Maze/blob/master/mazegame.png)
 ## Final click to [PLAY](https://tudorbejinari.github.io/Maze/)
