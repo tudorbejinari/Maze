@@ -13,3 +13,5 @@
 
 ### What I learn :  
 * a bit about a tree data structure + recursion to implement the simplest algorithm
+### Future Implementations: 
+* Different Levels : Easy Medium Hard
